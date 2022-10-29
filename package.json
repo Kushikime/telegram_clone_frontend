@@ -9,11 +9,29 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/cache": "^11.10.3",
+    "@emotion/react": "^11.10.4",
+    "@emotion/server": "^11.10.0",
+    "@emotion/styled": "^11.10.4",
+    "@interactjs/interact": "^1.10.17",
+    "@mui/icons-material": "^5.10.9",
+    "@mui/material": "^5.10.10",
+    "@reduxjs/toolkit": "^1.8.6",
+    "@types/react-resizable": "^3.0.3",
+    "emoji-picker-react": "^4.4.3",
     "next": "12.3.1",
+    "re-resizable": "^6.9.9",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-contenteditable": "^3.3.6",
+    "react-dom": "18.2.0",
+    "react-draft-wysiwyg": "^1.15.0",
+    "react-redux": "^8.0.4",
+    "react-resizable": "^3.0.4",
+    "redux-persist": "^6.0.0",
+    "use-debounce": "^8.0.4"
   },
   "devDependencies": {
+    "@interactjs/types": "^1.10.17",
     "@types/node": "18.11.3",
     "@types/react": "18.0.21",
     "@types/react-dom": "18.0.6",
